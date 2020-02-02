@@ -1,0 +1,1 @@
+change redux file at entry in webpack.config.js
